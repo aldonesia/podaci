@@ -34,7 +34,6 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
-
 <body>
 
   <!-- ======= Header ======= -->
@@ -50,8 +49,8 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#services">Recommended Survey</a></li>
           <li><a class="nav-link scrollto" href="#features">App Features</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#faq">F.A.Q</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -71,7 +70,7 @@
             </ul>
           </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#features">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="#features">Create Your Survey</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -86,10 +85,8 @@
       <div class="row">
         <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
           <div>
-            <h1>PODACI</h1>
-            <h2>One Stop Solution For Your Survey</h2>
-            <a href="#" class="download-btn"><i class="bx bxl-play-store"></i> Google Play -- Coming Soon</a>
-            <a href="#" class="download-btn"><i class="bx bxl-apple"></i> App Store --  Coming Soon</a>
+            <h1>Yuk Jadi Responden <br>di Survery Sahabatmu!</h1>
+            <a href="#" class="download-btn ">Explore <i class="bx bxs-chevron-right"></i> </a>
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
@@ -102,6 +99,58 @@
 
   <main id="main">
 
+  <!-- ======= Services Section ======= -->
+    <section id="services" class="details section-bg">
+      <div class="container">
+        <div class="section-title">
+          <h2>Recommended Surveys</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="/assets/img/survey-kotak.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title"><strong>Market Research Campus</strong></h5>
+                <p class="card-text" style="text-align: center;">By Risyandi Putri</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="/assets/img/survey-kotak.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title"><strong>Tugas Akhir Manajemen</strong></h5>
+                <p class="card-text" style="text-align: center;">By Rio Saputra</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="/assets/img/survey-kotak.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title"><strong>Survery Medsos Efektif</strong></h5>
+                <p class="card-text" style="text-align: center;">By Amelia Rizqa</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="/assets/img/survey-kotak.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title"><strong>Survery Kebiasaan Ngopi</strong></h5>
+                <p class="card-text" style="text-align: center;">By Rizky Fenaldo</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
     <!-- ======= App Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
@@ -250,54 +299,8 @@
       </div>
     </section><!-- End Details Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="details section-bg">
-      <div class="container">
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials ">
+    <!-- <section id="testimonials" class="testimonials ">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -378,10 +381,11 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section> -->
+    <!-- End Testimonials Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq section-bg">
+    <!-- <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -441,15 +445,16 @@
         </div>
 
       </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section> -->
+    <!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
+    <section id="contact" class="contact section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
@@ -459,22 +464,22 @@
               <div class="col-lg-6 info">
                 <i class="bx bx-map"></i>
                 <h4>Address</h4>
-                <p>A108 Adam Street,<br>New York, NY 535022</p>
+                <p>Jalan Ketintang No 156,<br>Surabaya, East Java 60231</p>
               </div>
               <div class="col-lg-6 info">
                 <i class="bx bx-phone"></i>
                 <h4>Call Us</h4>
-                <p>+1 5589 55488 55<br>+1 5589 22548 64</p>
+                <p>+62 82231018193<br>+62 82132194465</p>
               </div>
               <div class="col-lg-6 info">
                 <i class="bx bx-envelope"></i>
                 <h4>Email Us</h4>
-                <p>contact@example.com<br>info@example.com</p>
+                <p>adit@podaci.id<br>satria@podaci.id</p>
               </div>
               <div class="col-lg-6 info">
                 <i class="bx bx-time-five"></i>
                 <h4>Working Hours</h4>
-                <p>Mon - Fri: 9AM to 5PM<br>Sunday: 9AM to 1PM</p>
+                <p>Mon - Fri: 9AM to 4PM<br>Sunday: 9AM to 12PM</p>
               </div>
             </div>
           </div>
@@ -505,14 +510,15 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section>
+    <!-- End Contact Section -->
 
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
 
-    <div class="footer-newsletter">
+    <!-- <div class="footer-newsletter">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
@@ -524,20 +530,20 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="footer-top">
       <div class="container">
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Appland</h3>
+            <h3>Podaci</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Jalan Ketintang No 156 <br>
+              Surabaya, East Java 60231<br>
+              Indonesia <br><br>
+              <strong>Phone:</strong> +62 82231018193<br>
+              <strong>Email:</strong> adit@podaci.id<br>
             </p>
           </div>
 
@@ -555,17 +561,16 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Create Survey</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Fill Survery</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Survey Analytics</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Profesional Data Scientiest</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Our Algorithm</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Social Networks</h4>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
